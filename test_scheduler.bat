@@ -1,0 +1,1 @@
+SCHTASKS /CREATE /SC DAILY /TN "Run training.by tests daily" /TR "d:\QA\ATM\Module 9\ATM_Module_9\runner.bat" /ST 11:00
