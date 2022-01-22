@@ -1,0 +1,33 @@
+{
+  "name": "atm_module_9",
+  "version": "1.0.0",
+  "description": "A training project for Web UI testing with proper TA architecture, loggers",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "postinstall": "webdriver-manager update",
+    "lint": "eslint ./",
+    "remove-logs": "node ./cleanup/logsRemover.js",
+    "pretest": "npm run remove-logs",
+    "test": "npm run lint && protractor config/protractor.conf.js"
+    
+  },
+  "keywords": [
+    "protractor",
+    "architecture",
+    "loggers"
+  ],
+  "author": "Yauhen Viazau",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "eslint": "^8.6.0",
+    "eslint-config-google": "^0.14.0",
+    "log4js": "^6.4.0",
+    "mocha": "^9.1.3",
+    "mochawesome": "^7.0.1",
+    "protractor": "^7.0.0"
+  }
+}

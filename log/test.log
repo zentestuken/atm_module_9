@@ -1,0 +1,184 @@
+[2022-01-22T12:42:17.237] [INFO] default - ---------------- Going to "https://training.by" ----------------
+[2022-01-22T12:42:34.007] [DEBUG] default - Current page url is "https://training.by/#!/Home?lang=ru&City=37,38,39,40,41,42,50"
+[2022-01-22T12:42:34.813] [DEBUG] default - Highlighting element "Language Menu Button" with red color
+[2022-01-22T12:42:34.869] [INFO] default - Clicking "Language Menu Button"
+[2022-01-22T12:42:35.745] [DEBUG] default - Highlighting element "Language Link (English)" with red color
+[2022-01-22T12:42:35.839] [INFO] default - Clicking "Language Link (English)"
+[2022-01-22T12:42:51.351] [INFO] default - Collection "Header Menu Items" has 4 element
+[2022-01-22T12:42:51.355] [INFO] default - ---------------- Going to "https://training.by" ----------------
+[2022-01-22T12:43:09.053] [DEBUG] default - Current page url is "https://training.by/#!/Home?lang=en&City=37,38,39,40,41,42,50"
+[2022-01-22T12:43:09.188] [INFO] default - Collection "Header Menu Items" has texts "TRAINING LIST,ABOUT,BLOG,FAQ"
+[2022-01-22T12:43:09.189] [DEBUG] default - Collection "Header Menu Items" texts should be "TRAINING LIST,ABOUT,BLOG,FAQ"
+[2022-01-22T12:43:09.189] [INFO] default - Verifying that collection "Header Menu Items" texts are correct: true
+[2022-01-22T12:43:09.193] [INFO] default - ---------------- Going to "https://training.by" ----------------
+[2022-01-22T12:43:22.959] [DEBUG] default - Current page url is "https://training.by/#!/Home?lang=en&City=37,38,39,40,41,42,50"
+[2022-01-22T12:43:23.006] [DEBUG] default - Checking if "Accept Cookies Button" is displayed: true
+[2022-01-22T12:43:23.766] [DEBUG] default - Highlighting element "Accept Cookies Button" with red color
+[2022-01-22T12:43:23.787] [INFO] default - Clicking "Accept Cookies Button"
+[2022-01-22T12:43:23.862] [DEBUG] default - Scrolling to end of page
+[2022-01-22T12:43:23.891] [INFO] default - Collection "Footer links" has 4 element
+[2022-01-22T12:43:23.893] [INFO] default - ---------------- Going to "https://training.by" ----------------
+[2022-01-22T12:43:37.458] [DEBUG] default - Current page url is "https://training.by/#!/Home?lang=en&City=37,38,39,40,41,42,50"
+[2022-01-22T12:43:37.544] [WARN] default - Checking if "Accept Cookies Button" is displayed: false
+[2022-01-22T12:43:37.544] [DEBUG] default - Scrolling to end of page
+[2022-01-22T12:43:37.641] [INFO] default - Collection "Footer links" has texts "INVESTOR RELATIONS,CONTACT,PRIVACY POLICY,PRIVACY NOTICE"
+[2022-01-22T12:43:37.641] [DEBUG] default - Collection "Footer links" texts should be "INVESTOR RELATIONS,CONTACT,PRIVACY POLICY,PRIVACY NOTICE"
+[2022-01-22T12:43:37.641] [INFO] default - Verifying that collection "Footer links" texts are correct: true
+[2022-01-22T12:43:37.648] [INFO] default - ---------------- Going to "https://training.by" ----------------
+[2022-01-22T12:43:53.050] [DEBUG] default - Current page url is "https://training.by/#!/Home?lang=ru&City=37,38,39,40,41,42,50"
+[2022-01-22T12:43:53.881] [DEBUG] default - Highlighting element "Language Menu Button" with red color
+[2022-01-22T12:43:53.947] [INFO] default - Clicking "Language Menu Button"
+[2022-01-22T12:43:54.842] [DEBUG] default - Highlighting element "Language Link (English)" with red color
+[2022-01-22T12:43:54.920] [INFO] default - Clicking "Language Link (English)"
+[2022-01-22T12:44:12.087] [DEBUG] default - Checking if "Accept Cookies Button" is displayed: true
+[2022-01-22T12:44:12.868] [DEBUG] default - Highlighting element "Accept Cookies Button" with red color
+[2022-01-22T12:44:12.946] [INFO] default - Clicking "Accept Cookies Button"
+[2022-01-22T12:44:13.830] [DEBUG] default - Highlighting element "Clear Locations Button" with red color
+[2022-01-22T12:44:13.890] [INFO] default - Clicking "Clear Locations Button"
+[2022-01-22T12:44:14.146] [DEBUG] default - Scrolling by 500 px down
+[2022-01-22T12:44:14.930] [DEBUG] default - Highlighting element "Search Filter Button" with red color
+[2022-01-22T12:44:14.972] [INFO] default - Clicking "Search Filter Button"
+[2022-01-22T12:44:16.472] [DEBUG] default - Highlighting element with text "Kazakhstan" of collection "Country Options" with red color
+[2022-01-22T12:44:16.570] [INFO] default - Clicking element with text "Kazakhstan" of collection "Country Options"
+[2022-01-22T12:44:16.840] [INFO] default - Collection "City Options" has texts "Nur-Sultan,Karaganda,Almaty"
+[2022-01-22T12:44:16.841] [DEBUG] default - Collection "City Options" texts should be "Nur-Sultan,Karaganda,Almaty"
+[2022-01-22T12:44:16.841] [INFO] default - Verifying that collection "City Options" texts are correct: true
+[2022-01-22T12:44:16.844] [INFO] default - ---------------- Going to "https://training.by" ----------------
+[2022-01-22T12:44:45.205] [DEBUG] default - Current page url is "https://training.by/#!/Home?lang=ru&City=37,38,39,40,41,42,50"
+[2022-01-22T12:44:45.993] [DEBUG] default - Highlighting element "Language Menu Button" with red color
+[2022-01-22T12:44:46.087] [INFO] default - Clicking "Language Menu Button"
+[2022-01-22T12:44:46.967] [DEBUG] default - Highlighting element "Language Link (English)" with red color
+[2022-01-22T12:44:47.054] [INFO] default - Clicking "Language Link (English)"
+[2022-01-22T12:45:00.349] [DEBUG] default - Checking if "Accept Cookies Button" is displayed: true
+[2022-01-22T12:45:01.104] [DEBUG] default - Highlighting element "Accept Cookies Button" with red color
+[2022-01-22T12:45:01.164] [INFO] default - Clicking "Accept Cookies Button"
+[2022-01-22T12:45:02.050] [DEBUG] default - Highlighting element "Clear Locations Button" with red color
+[2022-01-22T12:45:02.075] [INFO] default - Clicking "Clear Locations Button"
+[2022-01-22T12:45:02.266] [DEBUG] default - Scrolling by 500 px down
+[2022-01-22T12:45:03.035] [DEBUG] default - Highlighting element "Search Filter Button" with red color
+[2022-01-22T12:45:03.074] [INFO] default - Clicking "Search Filter Button"
+[2022-01-22T12:45:04.597] [DEBUG] default - Highlighting element with text "India" of collection "Country Options" with red color
+[2022-01-22T12:45:04.667] [INFO] default - Clicking element with text "India" of collection "Country Options"
+[2022-01-22T12:45:04.880] [INFO] default - Collection "City Options" has texts "Hyderabad,Pune,Gurgaon,Chennai,Bangalore"
+[2022-01-22T12:45:04.880] [DEBUG] default - Collection "City Options" texts should be "Hyderabad,Pune,Gurgaon,Chennai,Bangalore"
+[2022-01-22T12:45:04.880] [INFO] default - Verifying that collection "City Options" texts are correct: true
+[2022-01-22T12:45:04.884] [INFO] default - ---------------- Going to "https://training.by" ----------------
+[2022-01-22T12:45:25.105] [DEBUG] default - Current page url is "https://training.by/#!/Home?lang=ru&City=37,38,39,40,41,42,50"
+[2022-01-22T12:45:25.907] [DEBUG] default - Highlighting element "Language Menu Button" with red color
+[2022-01-22T12:45:25.999] [INFO] default - Clicking "Language Menu Button"
+[2022-01-22T12:45:26.898] [DEBUG] default - Highlighting element "Language Link (English)" with red color
+[2022-01-22T12:45:26.981] [INFO] default - Clicking "Language Link (English)"
+[2022-01-22T12:45:45.965] [DEBUG] default - Checking if "Accept Cookies Button" is displayed: true
+[2022-01-22T12:45:46.721] [DEBUG] default - Highlighting element "Accept Cookies Button" with red color
+[2022-01-22T12:45:46.741] [INFO] default - Clicking "Accept Cookies Button"
+[2022-01-22T12:45:47.577] [DEBUG] default - Highlighting element "Clear Locations Button" with red color
+[2022-01-22T12:45:47.605] [INFO] default - Clicking "Clear Locations Button"
+[2022-01-22T12:45:47.781] [DEBUG] default - Scrolling by 500 px down
+[2022-01-22T12:45:48.554] [DEBUG] default - Highlighting element "Search Filter Button" with red color
+[2022-01-22T12:45:48.575] [INFO] default - Clicking "Search Filter Button"
+[2022-01-22T12:45:50.072] [DEBUG] default - Highlighting element with text "Kazakhstan" of collection "Country Options" with red color
+[2022-01-22T12:45:50.110] [INFO] default - Clicking element with text "Kazakhstan" of collection "Country Options"
+[2022-01-22T12:45:51.008] [DEBUG] default - Highlighting element with text "Nur-Sultan" of collection "City Options" with red color
+[2022-01-22T12:45:51.043] [INFO] default - Clicking element with text "Nur-Sultan" of collection "City Options"
+[2022-01-22T12:45:51.961] [DEBUG] default - Highlighting element with text "Karaganda" of collection "City Options" with red color
+[2022-01-22T12:45:52.054] [INFO] default - Clicking element with text "Karaganda" of collection "City Options"
+[2022-01-22T12:45:52.958] [DEBUG] default - Highlighting element "Search Filter Button" with red color
+[2022-01-22T12:45:53.024] [INFO] default - Clicking "Search Filter Button"
+[2022-01-22T12:45:53.181] [INFO] default - Collection "Selected Locations" has texts "NUR-SULTAN,KARAGANDA"
+[2022-01-22T12:45:53.181] [DEBUG] default - Collection "Selected Locations" texts should be "Nur-Sultan,Karaganda"
+[2022-01-22T12:45:53.182] [INFO] default - Verifying that collection "Selected Locations" texts are correct: true
+[2022-01-22T12:45:53.185] [INFO] default - ---------------- Going to "https://training.by" ----------------
+[2022-01-22T12:46:13.896] [DEBUG] default - Current page url is "https://training.by/#!/Home?lang=ru&City=37,38,39,40,41,42,50"
+[2022-01-22T12:46:14.720] [DEBUG] default - Highlighting element "Language Menu Button" with red color
+[2022-01-22T12:46:14.742] [INFO] default - Clicking "Language Menu Button"
+[2022-01-22T12:46:15.588] [DEBUG] default - Highlighting element "Language Link (English)" with red color
+[2022-01-22T12:46:15.640] [INFO] default - Clicking "Language Link (English)"
+[2022-01-22T12:46:38.425] [DEBUG] default - Checking if "Accept Cookies Button" is displayed: true
+[2022-01-22T12:46:39.227] [DEBUG] default - Highlighting element "Accept Cookies Button" with red color
+[2022-01-22T12:46:39.313] [INFO] default - Clicking "Accept Cookies Button"
+[2022-01-22T12:46:40.206] [DEBUG] default - Highlighting element "Clear Locations Button" with red color
+[2022-01-22T12:46:40.359] [INFO] default - Clicking "Clear Locations Button"
+[2022-01-22T12:46:40.525] [DEBUG] default - Scrolling by 500 px down
+[2022-01-22T12:46:41.294] [DEBUG] default - Highlighting element "Search Filter Button" with red color
+[2022-01-22T12:46:41.365] [INFO] default - Clicking "Search Filter Button"
+[2022-01-22T12:46:42.396] [DEBUG] default - Highlighting element "Skills Tab Button" with red color
+[2022-01-22T12:46:42.481] [INFO] default - Clicking "Skills Tab Button"
+[2022-01-22T12:46:43.824] [DEBUG] default - Highlighting element with text "Automated Testing" of collection "Skill Options" with red color
+[2022-01-22T12:46:43.874] [INFO] default - Clicking element with text "Automated Testing" of collection "Skill Options"
+[2022-01-22T12:46:44.998] [DEBUG] default - Highlighting element with text "Data & Analytics" of collection "Skill Options" with red color
+[2022-01-22T12:46:45.074] [INFO] default - Clicking element with text "Data & Analytics" of collection "Skill Options"
+[2022-01-22T12:46:46.066] [DEBUG] default - Highlighting element "Search Filter Button" with red color
+[2022-01-22T12:46:46.137] [INFO] default - Clicking "Search Filter Button"
+[2022-01-22T12:46:46.289] [INFO] default - Collection "Selected Skills" has texts "AUTOMATED TESTING,DATA & ANALYTICS"
+[2022-01-22T12:46:46.289] [DEBUG] default - Collection "Selected Skills" texts should be "Automated Testing,Data & Analytics"
+[2022-01-22T12:46:46.289] [INFO] default - Verifying that collection "Selected Skills" texts are correct: true
+[2022-01-22T12:46:46.293] [INFO] default - ---------------- Going to "https://training.by" ----------------
+[2022-01-22T12:47:08.168] [DEBUG] default - Current page url is "https://training.by/#!/Home?lang=ru&City=37,38,39,40,41,42,50"
+[2022-01-22T12:47:08.994] [DEBUG] default - Highlighting element "Language Menu Button" with red color
+[2022-01-22T12:47:09.023] [INFO] default - Clicking "Language Menu Button"
+[2022-01-22T12:47:09.859] [DEBUG] default - Highlighting element "Language Link (English)" with red color
+[2022-01-22T12:47:09.919] [INFO] default - Clicking "Language Link (English)"
+[2022-01-22T12:47:25.980] [DEBUG] default - Checking if "Accept Cookies Button" is displayed: true
+[2022-01-22T12:47:26.740] [DEBUG] default - Highlighting element "Accept Cookies Button" with red color
+[2022-01-22T12:47:26.821] [INFO] default - Clicking "Accept Cookies Button"
+[2022-01-22T12:47:27.702] [DEBUG] default - Highlighting element "Clear Locations Button" with red color
+[2022-01-22T12:47:27.731] [INFO] default - Clicking "Clear Locations Button"
+[2022-01-22T12:47:27.919] [DEBUG] default - Scrolling by 500 px down
+[2022-01-22T12:47:28.694] [DEBUG] default - Highlighting element "Search Filter Button" with red color
+[2022-01-22T12:47:28.720] [INFO] default - Clicking "Search Filter Button"
+[2022-01-22T12:47:29.737] [DEBUG] default - Highlighting element "Types Tab Button" with red color
+[2022-01-22T12:47:29.767] [INFO] default - Clicking "Types Tab Button"
+[2022-01-22T12:47:30.952] [DEBUG] default - Highlighting element with text "Training" of collection "Type Options" with red color
+[2022-01-22T12:47:30.991] [INFO] default - Clicking element with text "Training" of collection "Type Options"
+[2022-01-22T12:47:32.066] [DEBUG] default - Highlighting element with text "English" of collection "Type Options" with red color
+[2022-01-22T12:47:32.088] [INFO] default - Clicking element with text "English" of collection "Type Options"
+[2022-01-22T12:47:33.125] [DEBUG] default - Highlighting element with text "Russian" of collection "Type Options" with red color
+[2022-01-22T12:47:33.203] [INFO] default - Clicking element with text "Russian" of collection "Type Options"
+[2022-01-22T12:47:34.116] [DEBUG] default - Highlighting element "Search Filter Button" with red color
+[2022-01-22T12:47:34.131] [INFO] default - Clicking "Search Filter Button"
+[2022-01-22T12:47:34.269] [INFO] default - Collection "Selected Types" has texts "TRAINING,ENGLISH,RUSSIAN"
+[2022-01-22T12:47:34.269] [DEBUG] default - Collection "Selected Types" texts should be "Training,English,Russian"
+[2022-01-22T12:47:34.269] [INFO] default - Verifying that collection "Selected Types" texts are correct: true
+[2022-01-22T12:47:34.273] [INFO] default - ---------------- Going to "https://training.by/#!/News" ----------------
+[2022-01-22T12:47:36.888] [DEBUG] default - Current page url is "https://training.by/#!/News/Category/news?lang=en"
+[2022-01-22T12:47:36.923] [WARN] default - Checking if "Accept Cookies Button" is displayed: false
+[2022-01-22T12:47:36.944] [INFO] default - Collection "Post Categories" has 6 element
+[2022-01-22T12:47:36.946] [INFO] default - ---------------- Going to "https://training.by/#!/News" ----------------
+[2022-01-22T12:47:38.823] [DEBUG] default - Current page url is "https://training.by/#!/News/Category/news?lang=en"
+[2022-01-22T12:47:38.872] [WARN] default - Checking if "Accept Cookies Button" is displayed: false
+[2022-01-22T12:47:39.012] [INFO] default - Collection "Post Categories" has texts "NEWS,REAL STORIES,MATERIALS,HARD SKILLS,SOFT SKILLS,EVENTS"
+[2022-01-22T12:47:39.012] [DEBUG] default - Collection "Post Categories" texts should be "NEWS,REAL STORIES,MATERIALS,HARD SKILLS,SOFT SKILLS,EVENTS"
+[2022-01-22T12:47:39.012] [INFO] default - Verifying that collection "Post Categories" texts are correct: true
+[2022-01-22T12:47:39.015] [INFO] default - ---------------- Going to "https://training.by/#!/News" ----------------
+[2022-01-22T12:47:42.068] [DEBUG] default - Current page url is "https://training.by/#!/News/Category/news?lang=en"
+[2022-01-22T12:47:42.141] [WARN] default - Checking if "Accept Cookies Button" is displayed: false
+[2022-01-22T12:47:42.199] [INFO] default - Collection "Our Skills Panels" has 30 element
+[2022-01-22T12:47:42.201] [INFO] default - ---------------- Going to "https://training.by/#!/News" ----------------
+[2022-01-22T12:47:44.112] [DEBUG] default - Current page url is "https://training.by/#!/News/Category/news?lang=en"
+[2022-01-22T12:47:44.144] [WARN] default - Checking if "Accept Cookies Button" is displayed: false
+[2022-01-22T12:47:45.018] [DEBUG] default - Highlighting element with text "HARD SKILLS" of collection "Post Categories" with red color
+[2022-01-22T12:47:45.072] [INFO] default - Clicking element with text "HARD SKILLS" of collection "Post Categories"
+[2022-01-22T12:47:46.214] [INFO] default - Collection "Post Category Labels" has texts "HARD SKILLS,HARD SKILLS,HARD SKILLS,HARD SKILLS,HARD SKILLS,HARD SKILLS,HARD SKILLS"
+[2022-01-22T12:47:46.215] [INFO] default - Checking all elements in collection "Post Category Labels" have text "HARD SKILLS": true
+[2022-01-22T12:47:46.217] [INFO] default - ---------------- Going to "https://training.by/#!/News" ----------------
+[2022-01-22T12:47:48.166] [DEBUG] default - Current page url is "https://training.by/#!/News/Category/news?lang=en"
+[2022-01-22T12:47:48.204] [WARN] default - Checking if "Accept Cookies Button" is displayed: false
+[2022-01-22T12:47:49.059] [DEBUG] default - Highlighting element with text "HARD SKILLS" of collection "Post Categories" with red color
+[2022-01-22T12:47:49.124] [INFO] default - Clicking element with text "HARD SKILLS" of collection "Post Categories"
+[2022-01-22T12:47:50.053] [INFO] default - Collection "Posts" has 7 element
+[2022-01-22T12:47:50.055] [INFO] default - ---------------- Going to "https://training.by/#!/News" ----------------
+[2022-01-22T12:47:52.007] [DEBUG] default - Current page url is "https://training.by/#!/News/Category/news?lang=en"
+[2022-01-22T12:47:52.047] [WARN] default - Checking if "Accept Cookies Button" is displayed: false
+[2022-01-22T12:47:52.902] [DEBUG] default - Highlighting element with text "HARD SKILLS" of collection "Post Categories" with red color
+[2022-01-22T12:47:52.943] [INFO] default - Clicking element with text "HARD SKILLS" of collection "Post Categories"
+[2022-01-22T12:47:54.642] [DEBUG] default - Highlighting element "View More Button" with red color
+[2022-01-22T12:47:54.728] [INFO] default - Clicking "View More Button"
+[2022-01-22T12:47:55.687] [INFO] default - Collection "Posts" has 14 element
+[2022-01-22T12:47:55.693] [INFO] default - ---------------- Going to "https://training.by" ----------------
+[2022-01-22T12:47:59.945] [DEBUG] default - Highlighting element "Feedback Button" with red color
+[2022-01-22T12:47:59.987] [INFO] default - Clicking "Feedback Button"
+[2022-01-22T12:48:00.068] [INFO] default - Inputting text "Some random text in field" in element "Feedback Email field"
+[2022-01-22T12:48:00.769] [DEBUG] default - Selecting text in "Feedback Email field" field
+[2022-01-22T12:48:00.809] [INFO] default - Cutting text from "Feedback Email field" field
+[2022-01-22T12:48:00.888] [INFO] default - Pasting text in "Feedback Message field" field
+[2022-01-22T12:48:00.935] [INFO] default - Input field "Feedback Message field" contains text: "Some random text in field"
