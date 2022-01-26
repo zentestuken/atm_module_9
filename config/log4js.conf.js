@@ -1,5 +1,6 @@
 const log4js = require('log4js');
-const logPath = './log/test.log';
+const path = require('path');
+const logPath = '../log/test.log';
 
 const consoleLevel = 'info';
 const fileLevel = 'debug';
@@ -12,7 +13,7 @@ log4js.configure({
     },
     file: {
       type: 'file',
-      filename: logPath,
+      filename: path.resolve(__dirname, logPath),
       level: fileLevel,
     },
     consoleFilter: {
